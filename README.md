@@ -3,6 +3,6 @@ Hi 👋 My name is Jaipreet Singh
 
 I'm a frontend software developer & a graphic designer
 
-* :sparkles: I'm based in Toronto
-* :fireworks: See my portfolio at [jaipreet.ca](http://jaipreet.ca)
-* :milky_way: You can contact me at [jaipreetbsingh@gmail.com](mailto:jaipreetbsingh@gmail.com)
+* :milky_way: I'm based in Toronto
+* :sparkles: See my portfolio at [jaipreet.ca](http://jaipreet.ca)
+* :fireworks: You can contact me at [jaipreetbsingh@gmail.com](mailto:jaipreetbsingh@gmail.com)
