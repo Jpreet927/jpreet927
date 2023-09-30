@@ -1,8 +1,9 @@
-Hi 👋 My name is Jaipreet Singh
+hey, im Jaipreet
 ===============================
 
-I'm a frontend software developer & a graphic designer
+![GIF of Guts from Berserk](https://media.tenor.com/2z7NVAVjM_YAAAAd/guts-berserk.gif)
 
-* :milky_way: I'm based in Toronto
-* :sparkles: See my portfolio at [jaipreet.ca](http://jaipreet.ca)
-* :fireworks: You can contact me at [jaipreetbsingh@gmail.com](mailto:jaipreetbsingh@gmail.com)
+i'm a full-stack software developer and a graphic designer with an interest in ui/ux.
+
+* -> i'm based in Toronto
+* -> learn more about me @ [jaipreet.ca](http://jaipreet.ca)
